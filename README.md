@@ -25,7 +25,8 @@ Struktura:
 
 Struktura repozitorija:
 
-/Institucije/ │                                 
+/Institucije/ 
+│                                 
 ├── 0-Temelj-Institucija/                    
 ├── 1-Državne-Institucije/                                                                                                                      
 ├── 2-Stranke/                                                                                                                                                          
